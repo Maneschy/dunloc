@@ -1051,11 +1051,11 @@ ul,li{
 	border:1px solid #f1f1f1;
 	z-index:0;
     position: absolute;
-    transform: skewY(-13deg);
-	-webkit-transform: skewY(-13deg);
-	-moz-transform: skewY(-13deg);
-	-ms-transform: skewY(-13deg);
-	-o-transform: skewY(-13deg);
+    transform: skewY(13deg);
+	-webkit-transform: skewY(13deg);
+	-moz-transform: skewY(13deg);
+	-ms-transform: skewY(13deg);
+	-o-transform: skewY(13deg);
 	transition:all 700ms ease;
 	-moz-transition:all 700ms ease;
 	-webkit-transition:all 700ms ease;
