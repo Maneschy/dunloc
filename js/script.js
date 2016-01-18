@@ -42,7 +42,7 @@
 		  navigationStyle:"preview4",
 	
 		  touchenabled:"on",
-		  onHoverStop:"off",
+		  onHoverStop:"on",
 	
 		  swipe_velocity: 0.7,
 		  swipe_min_touches: 1,
